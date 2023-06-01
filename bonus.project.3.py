@@ -1,6 +1,7 @@
 from datetime import time
 from time import sleep
 
+
 print('Please, insert time to count down (h : m : s) ex. 00 : 00 : 00')
 h = int(input())
 m = int(input())
