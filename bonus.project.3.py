@@ -2,7 +2,7 @@ from datetime import time
 from time import sleep
 
 
-print('Please, insert time to count down.At first enter hour, press enter button,than enter minute,press enter button,at least enter second,press enter button (h : m : s) ex. 00 : 00 : 00')
+print('Please, insert time to count down.At first enter hour, press enter button,than enter minute,press enter button,at least enter second,press enter button (h : m : s) ex. 00 : 00 : 00.')
 h = int(input())
 m = int(input())
 s = int(input())
